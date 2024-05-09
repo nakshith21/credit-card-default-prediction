@@ -1,4 +1,4 @@
-# credit-card-default-prediction
+# credit-card-default-prediction.
 ![image](https://user-images.githubusercontent.com/102281845/190619688-2c2f44a5-7594-42e1-8869-02f151c9b7d0.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
